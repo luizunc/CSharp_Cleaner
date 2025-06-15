@@ -1,0 +1,56 @@
+l interna:
+Esvaziar a Lixeira
+
+Apagar Arquivos Temporários
+
+Limpar cache do navegador
+
+Limpar arquivos temporários de instalação do Windows
+
+Limpar o cache do Microsoft Store
+
+Apagar backups antigos do instalador do Office
+
+Esvaziar pasta de logs do Windows
+
+Limpar pasta de arquivos recentes
+
+
+l profunda:
+Executar a Limpeza de Disco
+
+Limpeza de Resíduos de Programas
+
+Limpar pontos de restauração antigos
+
+Remover drivers antigos
+
+Limpar cache do Windows Update manualmente
+
+Excluir arquivos de hibernação
+
+Excluir cache do sistema e logs
+
+
+sistema:
+Desativar animações e efeitos visuais
+
+Usar tema clássico ou de alto contraste
+
+Desativar transparência e efeitos do menu iniciar
+
+Desligar miniaturas em pastas (usar ícones simples)
+
+Ajustar para melhor desempenho em "Configurações Avançadas do Sistema"
+
+Reduzir resolução ou taxa de atualização (em PCs muito fracos)
+
+Usar papel de parede sólido ou cor lisa
+
+Desativar pré-visualizações de janelas na barra de tarefas
+
+Desativar sombras sob o ponteiro e janelas
+
+Usar explorador de arquivos no modo lista ou detalhes (mais leve)
+
+Desabilitar programas na inicialização
