@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Cleaner", "C# Cleaner.csproj", "{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Debug|x64.ActiveCfg = Debug|x64
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Debug|x64.Build.0 = Debug|x64
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Release|Any CPU.ActiveCfg = Release|x64
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Release|Any CPU.Build.0 = Release|x64
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Release|x64.ActiveCfg = Release|x64
+		{23353F2A-8CF5-6BB9-77EE-2F72D89BCCD9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B2C3D4-E5F6-4A5B-8C7D-9E0F1A2B3C4D}
+	EndGlobalSection
+EndGlobal
