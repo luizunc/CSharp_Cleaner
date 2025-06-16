@@ -21,7 +21,7 @@ namespace Cleaner
                 name: "",
                 ownerid: "",
                 secret: "",
-                version: "1.0"
+                version: ""
             );
 
             this.Load += Login_Load;
