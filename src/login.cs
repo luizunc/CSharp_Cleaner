@@ -14,6 +14,7 @@ namespace Cleaner
         private readonly api KeyAuthApp;
         private bool isInitialized = false;
 
+        //Credenciais KeyAuth
         public Login_Form()
         {
             InitializeComponent();
