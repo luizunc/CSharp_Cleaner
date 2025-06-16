@@ -19,7 +19,7 @@ namespace Cleaner
             InitializeComponent();
             KeyAuthApp = new api(
                 name: "",
-                ownerid: "x65xDpT4Jf",
+                ownerid: "",
                 secret: "9891be11ce896d8b0219cefab6d5cd9d178f4060a9aa248445e736ae18d452f5",
                 version: "1.0"
             );
